@@ -1,0 +1,29 @@
+{
+	"name": "filetreeview",
+	"version": "1.0",
+	"title": "File Tree View",
+	"author": { 
+		"name": "Cam Hoang",
+		"email": "hnvcam@gmail.com",
+		"url": "http://wiki.aiwsolutions.net"
+	},
+	"licenses": [
+		{
+			"type": "GPLv2",
+			"url": "http://www.example.com/licenses/gpl.html"
+		}
+	],
+	"dependencies": { 
+		"jquery": "1.x" 
+	},
+	"description": "Simple jQuery plugin to turn your <ul>, <ol> list into Tree View with collapse/expand function. Support predefined css class for folder.",
+	"keywords": [
+		"tree", 
+		"file", 
+		"folder"
+	],
+	"homepage": "http://wiki.aiwsolutions.net/Snld9",
+	"docs": "http://wiki.aiwsolutions.net/Snld9",
+	"demo": "http://wiki.aiwsolutions.net/Snld9",
+	"download": "https://github.com/hnvcam/filetreeview"	
+}
